@@ -20,8 +20,8 @@ here are some noteable projects that helped with the drones ..
 these both were created before ArduPilot added support ... _perhaps they got inspiration ?_ 
 
 #### Stats for nerds: 
-[![Finos github stats](https://github-readme-stats.vercel.app/api?username=finos2&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Finos github stats](https://github-readme-stats.vercel.app/api?username=eimparas&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <br> 
 
-[![Finos's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=finos2&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Finos's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eimparas&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
