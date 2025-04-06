@@ -1,27 +1,66 @@
 ### Hi there 👋
-> im a Undergraduate Student at the School of Electrical Engineering of the
-Aristotle University of Thessaloniki in Greece.
 
-Ive worked on varius electronic projects using the AVR based arduino 
-some noteable examples are the following:
-* [Controler for JBC T245-C handles](https://github.com/finos2/DIY-JBC-soldering-station) 
-* [DIY macro keyboard for gaming](https://github.com/finos2/MacroPad)
+Undergraduate student at the School of Electrical Engineering, Aristotle University of Thessaloniki, Greece 🇬🇷.
 
-> In 2019 i tried my own spin in creating a Function generator, but lack of time made it imposibe to finish
-* [Arduino Function Generator](https://github.com/finos2/Arduino-Function-Generator)
+Passionate about embedded systems, electronics, networks, and UAVs. I've worked on a variety of hands-on projects—ranging from soldering stations to drone hardware integrations. 
 
-> Huge part of my Work was and is centered around UAVs and other aerial flying platfoms. I got my A1/A2 Licence back in 2020 from the Hellenic Civil Aviation Authority and in 2021 i fully upgraded to meet the EASA standards plus adding licencies for night flight and high TOW unmanned aircraft. 
+My interests also include network architecture, especially at the physical layer and in the design of core or access network infrastructures. I enjoy working on network management systems—focusing on how traffic is handled, monitored, and routed efficiently across complex systems, rather than protocol-level work like TCP/UDP or cybersecurity.
 
-here are some noteable projects that helped with the drones ..
+---
 
-- [Runcam Pixhawk Bridge](https://github.com/finos2/Pixhawk-RuncamDevice)
-- ["toshiba" LED to ws2801 driver](https://github.com/finos2/PixHawk-i2c-to-Ws2801-bridge)
+## 🔧 Electronics & Microcontrollers
 
-these both were created before ArduPilot added support ... _perhaps they got inspiration ?_ 
+Projects revolve around AVR-based Arduino systems. A few highlights:
 
-#### Stats for nerds: 
-[![Finos github stats](https://github-readme-stats.vercel.app/api?username=eimparas&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+- 🔥 [Controller for JBC T245-C handles](https://github.com/eimparas/DIY-JBC-soldering-station) – A DIY soldering station for professional handles.
+- 🎮 [MacroPad – Custom Gaming Keyboard](https://github.com/eimparas/MacroPad) – A programmable keypad for gaming and productivity.
+- 🔌 [Electronic DC Load](https://github.com/eimparas/Electronic-DC-Load) – An Arduino-controlled DC load for PSU testing and battery characterization.
 
-<br> 
+In 2019, I started building a function generator from scratch. Though it remains unfinished due to university demands, it turned into a valuable learning experience in analog electronics:
 
-[![Finos's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eimparas&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+- 📈 [Arduino Function Generator](https://github.com/eimparas/Arduino-Function-Generator)
+
+## ✈️ UAVs & Aerial Systems
+
+Drones and aerial platforms are a key focus of my work. I earned an A1/A2 UAV pilot license in 2020 from the Hellenic Civil Aviation Authority and upgraded to full EASA standards in 2021—including night flight and High TWO(TakeOf waight) UAV certifications.
+
+Some relevant projects:
+
+- 📷 [Runcam–Pixhawk Bridge](https://github.com/eimparas/Pixhawk-RuncamDevice) – Integrating Runcam cameras with Pixhawk flight controllers.
+- 🌈 ["Toshiba" LED to WS2801 Driver](https://github.com/eimparas/PixHawk-i2c-to-Ws2801-bridge) – Emulating Toshiba LEDs on PixHawk controllers to drive WS2801 LEDs.
+
+> These were created before ArduPilot added official support on ArduPilot4.  
+> *Maybe they got inspired? 😉*
+
+## 🌐 Networking Projects
+
+Fascinated by the design of physical network layers and large-scale infrastructure. I’m especially drawn to access/core network architecture and systems that manage and route network traffic. Less interested in the protocol stack or cybersecurity, more into how everything physically connects and communicates behind the scenes.
+
+One project designed for my homelab:
+
+- 🧠 [TR069-Bot](https://github.com/eimparas/TR069-Bot)
+
+Named after the TR-069 protocol used by ISPs as a tongue-in-cheek reference. The project hooks into CPEs using various techniques, extracts diagnostics, and reports them back to my NoC.
+
+---
+
+## 🎥 Beyond Tech
+
+Outside of engineering, I enjoy photography and cinematography—especially capturing tech projects, aerial footage, and i especialy like shooting portraits. 
+These skills often come in handy when documenting hardware builds or showcasing drone flights.
+
+## Let's Connect!
+
+Always open to collaboration and conversation—especially around electronics, drones, and network design.
+
+- 📫 [LinkedIn](https://www.linkedin.com/in/eimparas)
+
+---
+<details>
+<summary>📊 Stats for nerds</summary>
+
+![Evangelos's GitHub stats](https://github-readme-stats.vercel.app/api?username=eimparas&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eimparas&layout=compact&theme=dark)
+
+</details>
