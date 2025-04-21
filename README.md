@@ -7,3 +7,6 @@ Could you provide more detailed information about how exactly you managed to do 
 Earlier, I sent you an email from this mailbox: qwertyTux@hotmail.com
 
 I am a student, and now, while working on my project, I am faced with the same problem. In search of a solution, I came across your discussion on the forum.
+
+
+I will definitely delete it, please excuse me for the inconvenience.
